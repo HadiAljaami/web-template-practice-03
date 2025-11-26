@@ -3,7 +3,7 @@
 A responsive and modern website template built with HTML and CSS, following Elzero Web School's tutorial.
 
 ## Live Demo
-[Add your GitHub Pages link here]
+https://hadialjaami.github.io/web-template-practice-03/
 
 ## Features
 - Fully responsive design
